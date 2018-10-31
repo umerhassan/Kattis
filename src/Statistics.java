@@ -1,4 +1,4 @@
-//this one is incomente too
+//this one is incomente too. complete this
 import java.util.Scanner;
 
 public class Statistics {
