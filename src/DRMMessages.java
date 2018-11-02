@@ -16,7 +16,7 @@ public class DRMMessages {
 		for(int i = 0; i < part1.length();i++)
 			rotation1 = rotation1 + (int)part1.charAt(i) - 65;
 	
-		sys
+		System.out.println(rotation1);
 		//for(int i = 0; i < part2.length();i++)
 		//	rotation2 = rotation2 + (int)part2.charAt(i) - 65;
 		
